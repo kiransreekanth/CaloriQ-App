@@ -154,13 +154,15 @@ flutter run
 </div>
 
 <div style="display: flex; gap: 30px; margin-bottom: 40px;">
-  <img width="400" height="800" alt="Screenshot 228" src="https://github.com/user-attachments/assets/713aaac1-d3fe-4565-bbac-d15bf1e157c6" />
-  <img width="400" height="800" alt="Screenshot (231)" src="https://github.com/user-attachments/assets/30f3c019-3b64-4592-ae43-53c280e4dad2" />
+  
+  <img width="400" height="800" alt="Screenshot (285)" src="https://github.com/user-attachments/assets/449c272e-b222-4e85-80db-8e6a90f84733" />
+  <img width="400" height="800" alt="Screenshot (286)" src="https://github.com/user-attachments/assets/bc6b5eab-8b1a-4922-8758-afb20f987398" />
 
 </div>
 
 <div style="display: flex; gap: 30px; margin-bottom: 40px;">
-  <img width="400" height="800" alt="Screenshot (232)" src="https://github.com/user-attachments/assets/8dc9f384-5f9a-42cb-906c-995a9952dc94" />
-  <img width="400" height="800" alt="Screenshot (233)" src="https://github.com/user-attachments/assets/3a7a9fe0-1342-4e54-bc9a-6afa348b48ba" />
+  
+  <img width="400" height="800" alt="Screenshot (287)" src="https://github.com/user-attachments/assets/6dc09c34-7798-444d-8563-1dc4062554d2" />
+  <img width="400" height="800" alt="Screenshot (289)" src="https://github.com/user-attachments/assets/8c40159e-33bd-44ff-afdb-23d824778218" />
 
 </div>
