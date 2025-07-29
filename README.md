@@ -149,7 +149,7 @@ flutter run
 <div style="display: flex; gap: 30px; margin-bottom: 40px;">
 
   <img width="400" height="800" alt="Screenshot (283)" src="https://github.com/user-attachments/assets/8b693af9-ef87-46d6-ac9b-7883cf43ad24" />
-  <img width="400" height="800" alt="Screenshot (227)" src="https://github.com/user-attachments/assets/87c146bc-c13b-4ca7-bcea-55c60c0aa535" />
+  <img width="400" height="800" alt="Screenshot (284)" src="https://github.com/user-attachments/assets/3b49b7ce-feda-4801-972c-41983d47bbb3" />
 
 </div>
 
