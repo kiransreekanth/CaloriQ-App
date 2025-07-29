@@ -146,3 +146,21 @@ flutter run
 
 ---
 
+<div style="display: flex; gap: 30px; margin-bottom: 40px;">
+
+  <img width="400" height="800" alt="Screenshot (283)" src="https://github.com/user-attachments/assets/8b693af9-ef87-46d6-ac9b-7883cf43ad24" />
+  <img width="400" height="800" alt="Screenshot (227)" src="https://github.com/user-attachments/assets/87c146bc-c13b-4ca7-bcea-55c60c0aa535" />
+
+</div>
+
+<div style="display: flex; gap: 30px; margin-bottom: 40px;">
+  <img width="400" height="800" alt="Screenshot 228" src="https://github.com/user-attachments/assets/713aaac1-d3fe-4565-bbac-d15bf1e157c6" />
+  <img width="400" height="800" alt="Screenshot (231)" src="https://github.com/user-attachments/assets/30f3c019-3b64-4592-ae43-53c280e4dad2" />
+
+</div>
+
+<div style="display: flex; gap: 30px; margin-bottom: 40px;">
+  <img width="400" height="800" alt="Screenshot (232)" src="https://github.com/user-attachments/assets/8dc9f384-5f9a-42cb-906c-995a9952dc94" />
+  <img width="400" height="800" alt="Screenshot (233)" src="https://github.com/user-attachments/assets/3a7a9fe0-1342-4e54-bc9a-6afa348b48ba" />
+
+</div>
